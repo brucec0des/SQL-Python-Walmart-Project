@@ -1,1 +1,3 @@
 pandas
+psycopg #do pip install psycopg[binary] first. psycopg2 dnw with python 13
+sqlalchemy
