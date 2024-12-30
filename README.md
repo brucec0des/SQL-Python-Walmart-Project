@@ -1,6 +1,6 @@
 # Walmart Data Analysis: End-to-End SQL + Python Project
 
-![](https://github.com/brucec0des/SQL-Netflix-Project/blob/main/logo.png)
+![](https://github.com/brucec0des/SQL-Python-Walmart-Project/blob/main/ASSETS/purepng.com-walmart-logologobrand-logoiconslogos-2515199386533ogay.png)
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ---
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/brucec0des/SQL-Python-Walmart-Project/blob/main/ASSETS/walmart_project-piplelines.png)
 
 ## Project Steps
 
