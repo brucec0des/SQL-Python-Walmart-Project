@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. This project helped me to refine my skills in data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. This project helped me to refine my skills in data manipulation, SQL querying, and data pipeline creation.
 
 ---
 
@@ -51,7 +51,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ### 8. Load Data into PostgreSQL
    - **Set Up Connections**: Connect to PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
-   - **Table Creation**: Set up tables in both PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
+   - **Table Creation**: Set up tables in PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
    - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
